@@ -1,4 +1,4 @@
 # Curso
 
-##SALUDO A CODE GARAGE
+##SALUDOs A CODE GARAGE
 
